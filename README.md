@@ -20,3 +20,10 @@
 - It will not be merged locally
 - This branch will be pushed into remote repo
 - 
+
+## Feature 3 : another new branch
+- Do something 
+- push this branch into remote repo
+- do a PR 
+- go back local repo -> do a git pull to update new change
+- delete this branch locally
