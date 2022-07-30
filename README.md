@@ -5,3 +5,8 @@
 - The first lesson 
 - The second lesson
 - The third lesson 
+
+## New Branch
+- Create local new branch
+- Add some change in README.md
+- Check a different before doing a merge to main branch
