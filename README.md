@@ -14,8 +14,9 @@
 - Add some change in README.md
 - Check a different before doing a merge to main branch
 
-## Feature 2:
+## Feature 2: as new branch
 
 - New branch is created in local repo
 - It will not be merged locally
 - This branch will be pushed into remote repo
+- 
