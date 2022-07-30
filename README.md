@@ -1,3 +1,4 @@
 # A DEMO
-
-- First lesson to create remote repo on github !
+- The first lesson 
+- The second lesson
+- The third lesson 
